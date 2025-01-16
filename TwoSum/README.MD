@@ -24,7 +24,7 @@ Explanation: nums[0] + nums[1] == 6, so we return [0, 1].
 
 ---
 
-### Constraints
+## Constraints
 ```plaintext
 2 <= nums.length <= 10^4
 -10^9 <= nums[i] <= 10^9
@@ -32,7 +32,7 @@ Explanation: nums[0] + nums[1] == 6, so we return [0, 1].
 Only one valid answer exists.
 
 ---
-### Notes
+## Notes
 ```plaintext
 Make sure not to use the same element twice.
 Solutions can be returned in any order.
