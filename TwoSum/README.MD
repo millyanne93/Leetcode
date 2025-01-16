@@ -21,7 +21,7 @@ Input: nums = [3, 2, 4], target = 6
 Output: [1, 2]  
 Explanation: nums[1] + nums[2] == 6, so we return [1, 2].
 
-###Example 3
+### Example 3
 Input: nums = [3, 3], target = 6  
 Output: [0, 1]  
 Explanation: nums[0] + nums[1] == 6, so we return [0, 1].
