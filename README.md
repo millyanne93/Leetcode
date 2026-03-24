@@ -1,1 +1,1 @@
-## Contains some of the leedcode solutions 
+## Contains some of the LeetCode solutions 
